@@ -2,7 +2,7 @@
 - 👀 I’m interested in SIP/VoIP and Asterisk.
 - 🌱 I’m currently learning Linux.
 - 💞️ I’m looking to collaborate on anything fun.
-- 📫 Find many on the Asterisk, FreePBX and many other communities.
+- 📫 Find me on the Asterisk, FreePBX and many other communities.
 
 <!---
 ypokg/ypokg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
